@@ -1,0 +1,5 @@
+buildspecs:
+  hostname:
+    type: script
+    run: "hostname"
+maintainers: [shahzebsiddiqui, shahzebsiddiqui]
